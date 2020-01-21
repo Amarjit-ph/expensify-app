@@ -1,8 +1,6 @@
-
-
 /node_modules
-/React-Files
 /.vscode
 /yarn-error.log
+/node_modules
 
-/src
+src/firebase
