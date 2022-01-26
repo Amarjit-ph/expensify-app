@@ -8,5 +8,5 @@ And how many generations you keep it for. - Robert Kiyosaki
 
 ###  WARNING !
 This is a deprecated version of Exensify<br/>
-Which is the initial developemtn of the application<br/>
-[Check the latest version of the application from the this link.](https://github.com/Amarjit-ph/expensify)
+Which is the initial developemtn of the application.<br/><br/>
+[Click this link for latest version of the application.](https://github.com/Amarjit-ph/expensify)
