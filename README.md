@@ -1,6 +1,6 @@
 
 <h1>Expensify</h1>
-<h3>Get your expenses under controls.</h3>
+<h3>Get your expenses under control.</h3>
 
 Control & Monitor your Expenses to cut a little bit add up to a Meaningful Sum.<br/>
 It's not how much money you make, but how much money you keep, how hard it works for you, <br/>
